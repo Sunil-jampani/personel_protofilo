@@ -1,0 +1,13 @@
+body{
+    background: #081b29;
+    color:#ededed;
+}
+h1 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    font-size: 48px;
+    font-weight: bold;
+  }
+  
